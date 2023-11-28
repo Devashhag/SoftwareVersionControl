@@ -7,4 +7,4 @@ def heurestic_fn(a, b):
 
 def manhattan(a,b):
     distance=abs(a.i-b.i)+abs(a.j-b.j)
-    return distance
+    return distance/2
