@@ -2,7 +2,7 @@
 
 ### code and github contirbution by devashish agarwal
 ### DEVASHISH AGARWAL 
-#### 500082411 ,R214220399,B-5 HONS,AIML,
+
 The backbone of UPES Guidance System is A* algorithm for finding the shortest path between 
 source and destination. The A star algorithm is admissible due to the heuristic function in the algorithm. A star algorithm is a single source shortest path finding algorithm that is an extension of Dijkstra's algorithm. Also, A star algorithm achieves better results due to its heuristic functionality.
 
